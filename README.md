@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Python, React & Tailwind CSS**
 
-- 📫 How to reach me **sainithyamaheswari24110143@snuchennai.edu.in**
-
 - ⚡ Fun fact **I love MUNs & reading books :)**
 
 <h3 align="left">Connect with me:</h3>
