@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Nithya Maheshwari P K</h1>
+<h1 align="center">Hi 👋, I'm Sai Nithya Maheswari P K</h1>
 <h3 align="center">A curious and purpose-driven Cyber Security and Data Science student passionate about building secure & intelligent systems with real-world impact. A fast learner, problem-solver, and a future-focused technologist driven by a vision to lead, innovate, collaborate, and inspire through ethical tech with a motto #SecureByDesign.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-nithya-7&label=Profile%20views&color=0e75b6&style=flat" alt="sai-nithya-7" /> </p>
