@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-nithya-7&label=Profile%20views&color=0e75b6&style=flat" alt="sai-nithya-7" /> </p>
 
-- 🔭 I’m currently working on [AshaApp](https://github.com/Sai-Nithya-7/AshaApp)
+-  I’m currently working on [AshaApp](https://github.com/Sai-Nithya-7/AshaApp)
 
-- 🌱 I’m currently learning **Backend Development**
+-  I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Cybersecurity projects**
+-  I’m looking to collaborate on **Cybersecurity projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sai-Nithya-7](https://github.com/Sai-Nithya-7)
+-  All of my projects are available at [https://github.com/Sai-Nithya-7](https://github.com/Sai-Nithya-7)
 
-- 💬 Ask me about **Python, React & Tailwind CSS**
+-  Ask me about **Python, React & Tailwind CSS**
 
-- ⚡ Fun fact **I love MUNs & reading books :)**
+-  Fun fact **I love MUNs & reading books :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
